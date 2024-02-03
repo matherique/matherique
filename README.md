@@ -1,18 +1,12 @@
-### Hi 🖖
+## 🖖
+
+Me chamo Matheus Henrique, tenho 29 anos e atualmente estou trabalhando como SWE na @tradersclub
+
+- 🔭 I’m currently working at @tradersclub as SWE
+- 🌱 I’m currently learning RUST
+- 📫 How to reach me: matherique@gmail.com
+- ⚡ Fun fact: I have 2 huskies (🍣 Sushi and 💙 Blue)
+
 
 ![gopher dancing](./dancing-gopher.gif)
 
-<!--
-**matherique/matherique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
